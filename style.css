@@ -48,6 +48,10 @@ p{
     color: yellowgreen;
 }
 
+.question-btn:hover{
+    opacity: .9;
+}
+
 
 .question-text{
     padding: 1rem 0 1.5rem 0;
